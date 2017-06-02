@@ -1,6 +1,6 @@
 'use strict';
 
-const_ = rewquire('lodash');
+const _ = require('lodash');
 const Script = require('smooch-bot').Script;
 
 const scriptRules = require('./script.json');
@@ -13,15 +13,14 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('Hi There, thank you for visiting me. Just say HELLO to get started.')
+            return bot.say('So you want to learn about Esther? Just say HELLO to get started.')
                 .then(() => 'speak');
         }
     },
 
     speak: {
-        
         receive: (bot, message) => {
-            
+
             let upperText = message.text.trim().toUpperCase();
 
             function updateSilent() {
@@ -32,8 +31,6 @@ module.exports = new Script({
                         return bot.setProp("silent", false);
                     default:
                         return Promise.resolve();
-                
-
                 }
             }
 
@@ -70,3 +67,4 @@ module.exports = new Script({
                 .then(processMessage);
         }
     }
+});
