@@ -1,6 +1,6 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Andi Firmanata, a Product Manager from New York.!\nWant to know more about my bots or learn about Andi? You can ask me about Andi's working experience, education, weakness, hobby, or whatever you want to ask",
-    "HELLO": "![adele](https://raw.githubusercontent.com/firmanata/AndiBots/master/img/adele.gif)\nI'm so glad you set AndiBots up! \nI’m the personal bot of Andi Firmanata, a passionate product person from New York. \nReply START to continue or EXIT to stop",
+    "HELLO": "(https://raw.githubusercontent.com/firmanata/AndiBots/master/img/adele.gif)\nI'm so glad you set AndiBots up! \nI’m the personal bot of Andi Firmanata, a passionate product person from New York. \nReply START to continue or EXIT to stop",
     "TELL HER": "Let's tweet him @firmanata so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "EXPERIENCE": "Andi has been working for couple year in tech companies",
     "WEAKNESS": "Andi is too scared with dog",
