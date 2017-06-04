@@ -1,13 +1,13 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Andi Firmanata, a Product Manager from New York.!\nWant to know more about my bots or learn about Andi? You can ask me about Andi's working experience, education, weakness, hobby, or whatever you want to ask",
-    "HELLO": "[Adele](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nHey there, I'm so glad you set AndiBots up! \nI’m the personal bot of Andi Firmanata, a passionate product person from New York. \nReply 'Start' to continue or 'Exit'\n",
+    "HELLO": "[Adele](https://raw.githubusercontent.com/firmanata/AndiBots/master/img/Adele Hello GIF.gif)\nHey there, I'm so glad you set AndiBots up! \nI’m the personal bot of Andi Firmanata, a passionate product person from New York. \nReply 'Start' to continue or 'Exit'\n",
     "TELL HER": "Let's tweet him @firmanata so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "EXPERIENCE": "Andi has been working for couple year in tech companies",
     "WEAKNESS": "Andi is too scared with dog",
     "STRENGTH": "Andi is good at drawing",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, EstherBot is back." 
 }
 
   
