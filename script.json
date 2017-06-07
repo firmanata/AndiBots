@@ -2,6 +2,7 @@
     "BOT": "Hi there!\nI’m the personal bot of Andi Firmanata, a Product Manager from New York.!\nWant to know more about my bots or learn about Andi? You can ask me about Andi's working experience, education, weakness, hobby, or whatever you want to ask",
     "HELLO": "![adele](https://raw.githubusercontent.com/firmanata/AndiBots/master/img/Adele.gif)\nI'm so glad you set AndiBots up! \nI’m the personal bot of Andi Firmanata, a passionate product person from New York. \nReply START to continue or EXIT to stop",
     "START": "Awesome!\nHere's how it works, you can ask me anything about Andi, his experience, education, strength, weakness, etc.\nIf you want to ask his experience you can reply with EXPERIENCE, if you want to ask his education you can reply with EDUCATION so on and so forth.\nPsssttt...I am not case sensitive, so doesnt matter with capital",
+    "EXIT": "![kitten](https://raw.githubusercontent.com/firmanata/AndiBots/master/img/kitten.gif)\nI'm so sad that you leave me T.T \nBut, no worries, you can always connect with Andi thru his twitter @firmanata or his email andi.firmanata@stern.nyu.edu \nThank you and see you again",
     "TELL HER": "Let's tweet him @firmanata so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "EXPERIENCE": "Andi has been working for couple year in tech companies",
     "WEAKNESS": "Andi is too scared with dog",
